@@ -7,5 +7,5 @@ a easy small chat Tools  for everyone(use PYQT)
   详情请见文件夹 可执行程序打包/client
 # 2，服务端
   使用线程池保证多人连接时的通讯畅通，系统稳定，支持在多环境下进行部署
-  详情请见链接<a herf='https://pan.baidu.com/s/1ZUJ5p7VwlNwS7o6Cabso8Q'>server</a>
+  详情请见链接https://pan.baidu.com/s/1ZUJ5p7VwlNwS7o6Cabso8Q
   提取码: xkdu
